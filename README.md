@@ -1,4 +1,4 @@
-# Algoritmo de modelación de tópicos de documentos digitales
+# Algoritmo para el análisis temático de documentos digitales   
 
 Antes de descargar y ejecutar el algortimo debe tener encuenta lo siguiente:
 
